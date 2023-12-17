@@ -166,7 +166,7 @@ body {
         flex-direction: column-reverse;
         justify-content: flex-end;
         max-width: 327px;
-        margin: 88px 0 88px 0;
+        margin: 48px 0;
     }
 
     .card-image {
