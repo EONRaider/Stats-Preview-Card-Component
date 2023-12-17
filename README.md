@@ -24,9 +24,11 @@ solution.
 
 ### Screenshot
 
+![Stats-Preview-Card-Component](https://github.com/EONRaider/Stats-Preview-Card-Component/assets/15611424/48cfe007-73a3-4245-ab24-6d120dcf20cc)
+
 ### Links
 
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project-name)
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-html5css3-stats-preview-card-component-OOaNbkZG_B)
 - [Check the Live Site](https://eonraider-stats-preview-card.netlify.app/)
 
 ## My process
@@ -43,6 +45,3 @@ solution.
 
 - Semantic HTML5 markup
 - Cube CSS methodology
--
-
-### What I learned
