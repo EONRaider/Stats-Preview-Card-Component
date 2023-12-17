@@ -91,15 +91,12 @@ body {
     line-height: 25px;
 }
 
-.card-stats__label {
-    color: var(--transparent-white-1);
-}
-
 .card-stats__value {
     color: var(--white);
 }
 
 .card-stats__label {
+    color: var(--transparent-white-1);
     font-size: 12px;
     font-weight: 400;
     text-transform: uppercase;
