@@ -91,7 +91,7 @@ body {
     line-height: 25px;
 }
 
-.card-content__text, .card-stats__label {
+.card-stats__label {
     color: var(--transparent-white-1);
 }
 
